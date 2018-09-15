@@ -1,0 +1,2 @@
+# BitPlaneComp
+Bit-plane compression
